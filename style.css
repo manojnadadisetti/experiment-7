@@ -1,0 +1,19 @@
+body {
+    font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+h2 {
+    letter-spacing: 0.03em;
+}
+
+.card {
+    border-radius: 0.5rem;
+}
+
+.card-title {
+    font-weight: 600;
+}
+
+.card-text {
+    font-size: 0.95rem;
+}
